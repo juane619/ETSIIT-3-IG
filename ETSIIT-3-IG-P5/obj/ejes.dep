@@ -1,0 +1,1 @@
+ejes.o: src/ejes.cpp include/ejes.h

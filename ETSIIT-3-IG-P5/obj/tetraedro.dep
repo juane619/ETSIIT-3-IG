@@ -1,0 +1,2 @@
+tetraedro.o: src/tetraedro.cpp include/tetraedro.h include/objeto3d.h \
+ include/punto3d.h include/cara.h include/file_ply_stl.h

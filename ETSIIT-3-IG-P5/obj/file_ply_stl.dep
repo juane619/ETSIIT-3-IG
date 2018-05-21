@@ -1,0 +1,2 @@
+file_ply_stl.o: src/file_ply_stl.cpp include/file_ply_stl.h \
+ include/cara.h include/punto3d.h

@@ -1,0 +1,6 @@
+escena.o: src/escena.cpp include/escena.h include/ejes.h include/cubo.h \
+ include/objeto3d.h include/punto3d.h include/cara.h \
+ include/file_ply_stl.h include/tetraedro.h include/piramide.h \
+ include/model_ply.h include/model_rev.h include/model_bar.h \
+ include/model_jer.h include/suelo.h include/material.h include/luz.h \
+ include/tablero.h include/CImg.h include/camara.h

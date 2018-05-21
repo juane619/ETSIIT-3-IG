@@ -1,0 +1,2 @@
+objeto3d.o: src/objeto3d.cpp include/objeto3d.h include/punto3d.h \
+ include/cara.h include/file_ply_stl.h

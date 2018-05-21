@@ -1,0 +1,1 @@
+luz.o: src/luz.cpp include/luz.h

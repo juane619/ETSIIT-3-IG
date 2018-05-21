@@ -1,0 +1,2 @@
+model_rev.o: src/model_rev.cpp include/model_rev.h include/objeto3d.h \
+ include/punto3d.h include/cara.h include/file_ply_stl.h

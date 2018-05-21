@@ -1,0 +1,1 @@
+camara.o: src/camara.cpp include/camara.h

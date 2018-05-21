@@ -1,0 +1,3 @@
+model_jer.o: src/model_jer.cpp include/model_jer.h include/model_ply.h \
+ include/objeto3d.h include/punto3d.h include/cara.h \
+ include/file_ply_stl.h include/suelo.h include/material.h include/luz.h
